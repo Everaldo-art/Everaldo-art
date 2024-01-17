@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-"Transformando código em experiências visuais, sou um estudante de Front-End apaixonado pela arte de criar interfaces que cativam e inovam."<br><br>Meu Objetivo:<br><br>Meu objetivo é contribuir para projetos inovadores que desafiem minhas habilidades e me permitam crescer como desenvolvedor Front-End. Estou empenhado em criar interfaces intuitivas e responsivas que proporcionem uma experiência excepcional ao usuário.<br><br><br>
+"Transformando código em experiências visuais, sou  Everaldo um estudante de Front-End apaixonado pela arte de criar interfaces que cativam e inovam."<br><br>Meu Objetivo:<br><br>Meu objetivo é contribuir para projetos inovadores que desafiem minhas habilidades e me permitam crescer como desenvolvedor Front-End. Estou empenhado em criar interfaces intuitivas e responsivas que proporcionem uma experiência excepcional ao usuário.<br><br><br>
 
 
 
